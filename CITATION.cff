@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "divisor-antichains: a Lean 4 formalization of maximum antichains in divisor lattices"
+type: software
+license: Apache-2.0
+authors:
+  - family-names: Mirzavaziri
+    given-names: Madjid
+    affiliation: Ferdowsi University of Mashhad
+  - family-names: Yaqubi
+    given-names: Daniel
+    affiliation: University of Torbat-e Jam
+keywords:
+  - Lean 4
+  - Mathlib
+  - divisor lattice
+  - Sperner theory
+  - maximum antichain

@@ -1,0 +1,13 @@
+name = "DivisorAntichains"
+defaultTargets = ["DivisorAntichains"]
+
+[leanOptions]
+autoImplicit = false
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4.git"
+rev = "6db5db0d2279846cc8fb25901bd53221d37a77d8"
+
+[[lean_lib]]
+name = "DivisorAntichains"

@@ -1,0 +1,11 @@
+{
+  "title": "divisor-antichains: a Lean 4 formalization of maximum antichains in divisor lattices",
+  "upload_type": "software",
+  "description": "Lean 4 / Mathlib companion code for the paper \"Maximum antichains in divisor lattices, with a formalization in Lean\" by Madjid Mirzavaziri and Daniel Yaqubi. It formalizes the count of maximum antichains of the divisor lattice D(n) in the dominated case (OEIS A096826 and its relation to A096827), the symmetric chain decomposition and Sperner property of every divisor lattice, the squarefree case, the counts of maximum generating families of subgroups of Z/nZ, and a reduction of the balanced case to the normalized matching property.",
+  "creators": [
+    {"name": "Mirzavaziri, Madjid", "affiliation": "Ferdowsi University of Mashhad"},
+    {"name": "Yaqubi, Daniel", "affiliation": "University of Torbat-e Jam"}
+  ],
+  "license": "Apache-2.0",
+  "keywords": ["Lean 4", "Mathlib", "formalization", "divisor lattice", "Sperner theory", "maximum antichain", "symmetric chain decomposition", "Dedekind numbers"]
+}
