@@ -1,5 +1,7 @@
 # Maximum antichains in divisor lattices — Lean 4 formalization
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24039760.svg)](https://doi.org/10.5281/zenodo.24039760)
+
 Companion code for the paper by Madjid Mirzavaziri and Daniel Yaqubi (in preparation,
 intended for *Annals of Formalized Mathematics*).
 
@@ -80,4 +82,5 @@ Apache License 2.0, the same license as Mathlib. See `LICENSE`.
 
 ## How to cite
 
-See `CITATION.cff`. A DOI for each release is provided by Zenodo.
+See `CITATION.cff`. Version 1.0 is archived on Zenodo with DOI
+[10.5281/zenodo.24039760](https://doi.org/10.5281/zenodo.24039760).

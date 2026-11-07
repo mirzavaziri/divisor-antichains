@@ -3,6 +3,9 @@ message: "If you use this code, please cite it as below."
 title: "divisor-antichains: a Lean 4 formalization of maximum antichains in divisor lattices"
 type: software
 license: Apache-2.0
+version: "1.0"
+doi: 10.5281/zenodo.24039760
+repository-code: "https://github.com/mirzavaziri/divisor-antichains"
 authors:
   - family-names: Mirzavaziri
     given-names: Madjid
